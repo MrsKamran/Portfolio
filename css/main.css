@@ -1,0 +1,26 @@
+nav {
+  display: flex;
+  justify-content: space-around;
+}
+h1 {
+  text-align: center;
+}
+.contact {
+  display: flex;
+  flex-direction: column;
+}
+.contact-div {
+  margin-left: auto;
+}
+
+.image {
+  width: 500px;
+  height: auto;
+}
+.image:hover {
+  opacity: 0.5;
+}
+table tr {
+  text-align: left;
+  font-size: 17px;
+}
