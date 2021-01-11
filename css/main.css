@@ -12,10 +12,14 @@ nav a {
   font-size: 25px;
   padding-top: 7px;
 }
+.links {
+  text-decoration: none;
+  color: darkblue;
+}
 
 h1 {
   text-align: center;
-  color: blue;
+  color: #000000;
 }
 .contact {
   display: flex;
