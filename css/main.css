@@ -1,7 +1,18 @@
 nav {
   display: flex;
   justify-content: space-around;
+  background-color: #000;
+  height: 50px;
+  text-align: center;
 }
+
+nav a {
+  text-decoration: none;
+  color: #ffffff;
+  font-size: 25px;
+  padding-top: 7px;
+}
+
 h1 {
   text-align: center;
 }
